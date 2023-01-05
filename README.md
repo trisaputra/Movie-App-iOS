@@ -5,4 +5,4 @@ Full Movie Futured iOS app showcasing the rich and morty API.
 
 - Written in Swift
 - Unit Tested
-- Follow Series on youtube
+- Follow Series 
