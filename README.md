@@ -7,7 +7,7 @@ Full Movie Futured iOS app showcasing the rich and morty API.
 - Unit Tested
 - Follow Series 
 
-![](Assets/banner_about_swift.jpg)
+[](Assets/banner_about_swift.jpg)
 
 Since past Apple's keynote, where **SwiftUI** was announced, tons of docs, examples, videos and tutorials have appeared. The goal of this repository is to gather all this information having a unique place where looking for info about **SwiftUI**.
 
